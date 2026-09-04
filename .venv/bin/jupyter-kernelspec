@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/neha-tiwari/Prakash's Folder/LangGraph/.venv/bin/python3" "$0" "$@"
+'''exec' "/home/neha-tiwari/Prakash's Folder/LangGraph/.venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
